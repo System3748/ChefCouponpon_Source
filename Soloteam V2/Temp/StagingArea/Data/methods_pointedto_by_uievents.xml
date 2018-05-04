@@ -1,0 +1,65 @@
+<linker>
+	<assembly fullname="Assembly-CSharp-firstpass">
+		<type fullname="Start_New">
+			<method name="btn_animatedCross"/>
+			<method name="btn_animatedCross"/>
+			<method name="setImageRadio"/>
+			<method name="btn_animatedCross"/>
+			<method name="btn_animatedCross"/>
+			<method name="btn_animatedCross"/>
+			<method name="btn_animatedCross"/>
+		</type>
+		<type fullname="coupon">
+			<method name="coupon_wanted"/>
+			<method name="cross_Coupon"/>
+			<method name="cross_Coupon"/>
+			<method name="btn_animatedCross"/>
+			<method name="coupon_Exchange"/>
+			<method name="coupon_Exchange"/>
+		</type>
+	</assembly>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Select_Character">
+			<method name="sendInfo"/>
+			<method name="sendInfo"/>
+			<method name="enterGame"/>
+			<method name="enterGame"/>
+			<method name="sendInfo"/>
+			<method name="btn_animatedCross"/>
+		</type>
+		<type fullname="GestureRecognizer.GestureBehaviour">
+			<method name="OnClick"/>
+			<method name="OnDrag"/>
+			<method name="Recognize"/>
+			<method name="OnClick"/>
+			<method name="OnDrag"/>
+			<method name="Recognize"/>
+		</type>
+		<type fullname="GestureRecognizer.LevelController">
+			<method name="KillAllEnemies"/>
+			<method name="RestartGame"/>
+			<method name="ToggleGame"/>
+			<method name="KillAllEnemies"/>
+			<method name="RestartGame_MENU"/>
+			<method name="KillAllEnemies"/>
+			<method name="KillAllEnemies"/>
+			<method name="KillAllEnemies"/>
+			<method name="KillAllEnemies"/>
+			<method name="StartGame"/>
+			<method name="RestartGame_MENU"/>
+			<method name="QuitGame"/>
+		</type>
+		<type fullname="itemYse">
+			<method name="killItems"/>
+			<method name="killItems"/>
+			<method name="killItems"/>
+			<method name="killItems"/>
+			<method name="killItems"/>
+			<method name="killItems"/>
+		</type>
+		<type fullname="talker">
+			<method name="demoMessage"/>
+			<method name="return_Menu"/>
+		</type>
+	</assembly>
+</linker>

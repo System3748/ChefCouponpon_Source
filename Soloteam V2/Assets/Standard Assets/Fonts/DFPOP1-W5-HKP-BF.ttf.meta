@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9d24513aa7db24b9a93b88b5ad45debf
+timeCreated: 1480858589
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFPPOP1W5-B5
+  fontNames:
+  - DFPPOP1W5-B5
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Standard Assets/Scenes/New Version 2/Start.unity
+  isLoaded: 1
+  isActive: 1
