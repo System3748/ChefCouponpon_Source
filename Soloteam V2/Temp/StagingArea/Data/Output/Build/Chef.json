@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Chef.data.unityweb",
+"asmCodeUrl": "Chef.asm.code.unityweb",
+"asmMemoryUrl": "Chef.asm.memory.unityweb",
+"asmFrameworkUrl": "Chef.asm.framework.unityweb",
+"splashScreenStyle": "Light",
+"backgroundColor": "#80858B"
+}
